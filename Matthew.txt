@@ -1,0 +1,8 @@
+Name: Matt
+Major: CS
+Message: Hi, everyone! This is my first edit/PR for Hawktoberfest 2020. I'm one of the organizers and I'm excited to learn more about open source and work with you all for this event!
+
+Follow me!
+Github - https://github.com/Mmendero
+LinkedIn - https://www.linkedin.com/in/matthewmendero/
+Twitter - https://twitter.com/m1ett
