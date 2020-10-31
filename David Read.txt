@@ -1,0 +1,3 @@
+Name: David Read
+Major: Computer Science
+Favorite Programming Language: Haskell
