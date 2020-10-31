@@ -1,0 +1,6 @@
+Hello everyone! My name is Anthony and I'm currently a Junior pursuing my B.S. in Computer Science. 
+Aside from interests in Computer Science, I'm also very into headphones and box office numbers. 
+Unforutanely, due to current situation in the world, box office numbers are no longer something to marvel at.
+I hope for things to someday return to some semblance of normalcy. 
+Until then, I try to stay optimisitic and I have a lot more time listen to music over different pairs of headphones.
+Very excited to begin hacking for Hawktoberfest 2020!
