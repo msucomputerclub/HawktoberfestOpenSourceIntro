@@ -1,3 +1,0 @@
-Name: James Doe
-Major: Computer Science
-Favorite Programming Language: MIPS
